@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "goz.play.hosting",
-    "port": ,
+    "port": "",
     "version": "",
     "try-creative": false
   },
