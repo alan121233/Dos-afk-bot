@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dod.play.hosting",
-    "port": 10402,
+    "ip": "goz.play.hosting",
+    "port": 45428,
     "version": "",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
